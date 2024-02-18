@@ -1,0 +1,15 @@
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/bin/Debug/net7.0/ExecuteQueue
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/bin/Debug/net7.0/ExecuteQueue.deps.json
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/bin/Debug/net7.0/ExecuteQueue.runtimeconfig.json
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/bin/Debug/net7.0/ExecuteQueue.dll
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/bin/Debug/net7.0/ExecuteQueue.pdb
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.csproj.AssemblyReference.cache
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.AssemblyInfoInputs.cache
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.AssemblyInfo.cs
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.dll
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/refint/ExecuteQueue.dll
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.pdb
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ExecuteQueue.genruntimeconfig.cache
+/Users/mac/Documents/ExecuteQueue/ExecuteQueue/obj/Debug/net7.0/ref/ExecuteQueue.dll
